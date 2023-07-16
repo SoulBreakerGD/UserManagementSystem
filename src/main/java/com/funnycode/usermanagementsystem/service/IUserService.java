@@ -1,5 +1,6 @@
-package com.funnycode.usermanagementsystem;
+package com.funnycode.usermanagementsystem.service;
 
+import com.funnycode.usermanagementsystem.entity.User;
 import org.springframework.stereotype.Service;
 
 @Service

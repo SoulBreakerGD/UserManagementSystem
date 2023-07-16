@@ -1,4 +1,4 @@
-package com.funnycode.usermanagementsystem;
+package com.funnycode.usermanagementsystem.entity;
 
 import lombok.*;
 import lombok.experimental.FieldDefaults;
